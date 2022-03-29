@@ -8,4 +8,5 @@ int main()
 	cout << 16 + 24 << endl;
 	cout << "Hello, Vladimir\n";
 	cout << "Last commits\n";
+	return 0;
 }
