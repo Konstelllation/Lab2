@@ -7,4 +7,5 @@ int main()
 	cout << 5 + 10<< endl;
 	cout << 16 + 24 << endl;
 	cout << "Hello, Vladimir\n";
+	cout << "Last commits\n";
 }
